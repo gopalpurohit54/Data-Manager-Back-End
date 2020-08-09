@@ -1,0 +1,1 @@
+[{"fname":"Rohan","lname":"purohit","email":"lol@idhbj.in","dob":"1000-10-10","gender":"Male","country":"Canada","terms":true,"id":"5172af0d-481f-4a17-b157-2a4378686a71"},{"fname":"Gopal","lname":"Purohit","country":"India","email":"gopal@gmail.com","dob":"1999-01-09","gender":"Male","terms":true,"id":"5a9c87c5-1020-42e9-b9c5-ba0cac9f9b14"}]
